@@ -32,9 +32,3 @@ Todos os campos estão organizados em um layout responsivo com a grid system do 
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 3. Preencha o formulário e clique em **Enviar** (a ação de envio pode ser adaptada para backend posteriormente).
 
-## 📁 Exemplo de Estrutura de Arquivos
-
-```text
-/
-├── index.html
-├── README.md
